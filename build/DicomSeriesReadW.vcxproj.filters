@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="Windows-1252"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\sashi\Documents\Visual Studio 2012\Projects\dicomSeriesRead\src\DicomSeriesReadImageWrite2.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\sashi\Documents\Visual Studio 2012\Projects\dicomSeriesRead\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{23012F95-4DDE-47B0-8F80-1455B501F3C2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

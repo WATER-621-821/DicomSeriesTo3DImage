@@ -1,0 +1,3 @@
+C:/Users/sashi/Documents/Visual Studio 2012/Projects/dicomSeriesRead/build/CMakeFiles/DicomSeriesReadW.dir
+C:/Users/sashi/Documents/Visual Studio 2012/Projects/dicomSeriesRead/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/sashi/Documents/Visual Studio 2012/Projects/dicomSeriesRead/build/CMakeFiles/ZERO_CHECK.dir
